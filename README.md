@@ -16,7 +16,7 @@
 
 |회사이름|직무|기간|간단 업무내용|사용 스택|
 |---|---|---|---|---|
-|글로벌스마트솔루션|풀스택 개발자|2021.01~2021.07|주방에서 발생가능한 화재 및 물끓임 등을 감지하고 알려주는 IoT 하드웨어 및 어플 개발|<img src="https://img.shields.io/badge/Flutter-flutter_color?style=for-the-badge&logo=Flutter&logoColor=white"> |
+|글로벌스마트솔루션|풀스택 개발자|2021.01~2021.07|주방에서 발생가능한 화재 및 물끓임 등을 감지하고 알려주는 IoT 하드웨어 및 어플 개발|<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">|
 
 
 
@@ -24,9 +24,6 @@
 <img src="https://img.shields.io/badge/Flutter-flutter_color?style=for-the-badge&logo=Flutter&logoColor=white">  
 
 
-// Flutter 로고 및 색상
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Flutter</title><path d="M14.314 0L2.3 12 6 15.7 21.684.013h-7.357zm.014 11.072L7.857 17.53l6.47 6.47H21.7l-6.46-6.468 6.46-6.46h-7.37z"/></svg>  
-flutter_color = #02569B
 
 <!--
 **git-ThLee/git-ThLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
