@@ -12,7 +12,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlxogns96)](https://solved.ac/dlxogns96)
 
-# ⌛ Career
+# ⌛ 업무 경험
 
 |회사이름|직무|기간|간단 업무내용|사용 스택|
 |---|---|---|---|---|
