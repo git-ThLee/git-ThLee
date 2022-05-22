@@ -32,9 +32,11 @@
 
 ## 개인프로젝트 - Dog Run(Unity)
   - https://github.com/git-ThLee/Dog_Run_Unity 
-  - <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white">
+  - <img src="https://img.shields.io/badge/Unity-002244?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white">
 
-
+## 개인프로젝트 - 악필검사기(어플)
+  - https://github.com/git-ThLee/bad_handwriting
+  - <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
 
 
 <!--
