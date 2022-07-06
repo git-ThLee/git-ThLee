@@ -30,10 +30,13 @@
 ## 머신러닝(ML) 프로젝트 - IEEE_CIS_Fraud_Detection
   - 캐글 : [ieee-fraud-detection](https://www.kaggle.com/competitions/ieee-fraud-detection/overview)  
   - [https://git-thlee.github.io/PJT_ML_IEEE_CIS_Fraud_Detection/](https://git-thlee.github.io/PJT_ML_IEEE_CIS_Fraud_Detection/)
-
+  - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+  
+  
 ## EDA 프로젝트 - Fastcampus
   - https://git-thlee.github.io/PJT_EDA_fastcampus/  
-
+  - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"> 
+  
 
 ## 개인프로젝트 - 점자번역기(어플)
   - [https://git-thlee.github.io/PJT_ML_IEEE_CIS_Fraud_Detection/](https://git-thlee.github.io/PJT_ML_IEEE_CIS_Fraud_Detection/)
