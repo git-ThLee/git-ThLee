@@ -30,7 +30,7 @@
 ## 머신러닝(ML) 프로젝트 - IEEE_CIS_Fraud_Detection
   - 캐글 : [ieee-fraud-detection](https://www.kaggle.com/competitions/ieee-fraud-detection/overview)  
   - [https://git-thlee.github.io/PJT_ML_IEEE_CIS_Fraud_Detection/](https://git-thlee.github.io/PJT_ML_IEEE_CIS_Fraud_Detection/)
-  - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+  - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> 
   
   
 ## EDA 프로젝트 - Fastcampus
