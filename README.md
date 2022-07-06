@@ -26,7 +26,17 @@
   - 주방에서 발생가능한 화재 및 물끓임 등을 감지하고 알려주는 IoT 하드웨어 및 어플 개발
   - <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 
+
+## 머신러닝(ML) 프로젝트 - IEEE_CIS_Fraud_Detection
+  - 캐글 : [ieee-fraud-detection](https://www.kaggle.com/competitions/ieee-fraud-detection/overview)  
+  - 
+
+## EDA 프로젝트 - Fastcampus
+  - https://git-thlee.github.io/PJT_EDA_fastcampus/  
+
+
 ## 개인프로젝트 - 점자번역기(어플)
+  - [https://git-thlee.github.io/PJT_ML_IEEE_CIS_Fraud_Detection/](https://git-thlee.github.io/PJT_ML_IEEE_CIS_Fraud_Detection/)
   - https://github.com/git-ThLee/braille_translator
   - <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
 
