@@ -29,7 +29,7 @@
 
 ## 머신러닝(ML) 프로젝트 - IEEE_CIS_Fraud_Detection
   - 캐글 : [ieee-fraud-detection](https://www.kaggle.com/competitions/ieee-fraud-detection/overview)  
-  - 
+  - [https://git-thlee.github.io/PJT_ML_IEEE_CIS_Fraud_Detection/](https://git-thlee.github.io/PJT_ML_IEEE_CIS_Fraud_Detection/)
 
 ## EDA 프로젝트 - Fastcampus
   - https://git-thlee.github.io/PJT_EDA_fastcampus/  
