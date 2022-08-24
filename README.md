@@ -5,12 +5,15 @@
 
 ---
 
-# 📋 Github stats
+# 📋 Github stats & 🥇 백준(BOJ)
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlxogns96">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=git-ThLee&show_icons=true&theme=radical)
 
-# 🥇 백준(Baekjoon)
+
+<!-- # 🥇 백준(Baekjoon)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlxogns96)](https://solved.ac/dlxogns96)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlxogns96)](https://solved.ac/dlxogns96) -->
 
 # ⌛ Career
 
