@@ -20,7 +20,7 @@
 
 ## 이어드림스쿨 
   - 2기
-  - 2022.03 ~ 진행중
+  - 2022.03 ~ 2022.12
   - 인공지능 특화 교육, 인공지능 초·중·고급과정, 스타트업 연계 프로젝트 과정, Kaggle 경진대회, 대학 인공지능 학과 4학년 과정 등
   - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 
