@@ -18,6 +18,11 @@
 
 # ⌛ Career
 
+[Career 노션 페이지](https://www.notion.so/ThLee-1fef9e057dbf40d5b7b851ab0abccf36)  
+
+![image](https://user-images.githubusercontent.com/55564114/227770163-cf03b742-3766-4662-8c61-1956d394d1f0.png)  
+
+
 ## 이어드림스쿨 
   - 2기
   - 2022.03 ~ 2022.12
