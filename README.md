@@ -6,19 +6,12 @@
 
 ---
 
-# 📋 Github stats
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=git-ThLee&show_icons=true&theme=radical)
-
-
-# 🥇 백준(Baekjoon)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlxogns96)](https://solved.ac/dlxogns96)
+## 🥇 백준(Baekjoon)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlxogns96)](https://solved.ac/dlxogns96)
 
 # ⌛ Career
 
-[Career 노션 페이지](https://www.notion.so/ThLee-1fef9e057dbf40d5b7b851ab0abccf36)  
+[Career 노션 페이지]([https://www.notion.so/ThLee-1fef9e057dbf40d5b7b851ab0abccf36](https://ancient-wire-8f9.notion.site/ThLee-1fef9e057dbf40d5b7b851ab0abccf36?pvs=4))
 
 ![image](https://user-images.githubusercontent.com/55564114/227770163-cf03b742-3766-4662-8c61-1956d394d1f0.png)  
 
