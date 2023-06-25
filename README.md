@@ -11,62 +11,29 @@
 
 # ⌛ Career
 
-[Career 노션 페이지]([https://www.notion.so/ThLee-1fef9e057dbf40d5b7b851ab0abccf36](https://ancient-wire-8f9.notion.site/ThLee-1fef9e057dbf40d5b7b851ab0abccf36?pvs=4))
+[개인노션 페이지](https://ancient-wire-8f9.notion.site/ThLee-1fef9e057dbf40d5b7b851ab0abccf36?pvs=4)
 
 ![image](https://user-images.githubusercontent.com/55564114/227770163-cf03b742-3766-4662-8c61-1956d394d1f0.png)  
 
 
-## 이어드림스쿨 
-  - 2기
-  - 2022.03 ~ 2022.12
-  - 인공지능 특화 교육, 인공지능 초·중·고급과정, 스타트업 연계 프로젝트 과정, Kaggle 경진대회, 대학 인공지능 학과 4학년 과정 등
-  - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+## 연습
 
-## 글로벌스마트솔루션  
-  - 풀스택 개발자  
-  - 2021.01~2021.07  
-  - 주방에서 발생가능한 화재 및 물끓임 등을 감지하고 알려주는 IoT 하드웨어 및 어플 개발
-  - <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+```python
+import matplotlib.pyplot as plt
 
+# 공부 날짜와 스코어 데이터
+study_dates = ['2023-01-01', '2023-01-15', '2023-02-01', '2023-02-15', '2023-03-01']
+study_scores = [80, 85, 90, 92, 95]
 
-## 머신러닝(ML) 프로젝트 - IEEE_CIS_Fraud_Detection
-  - 캐글 : [ieee-fraud-detection](https://www.kaggle.com/competitions/ieee-fraud-detection/overview)  
-  - [https://git-thlee.github.io/PJT_ML_IEEE_CIS_Fraud_Detection/](https://git-thlee.github.io/PJT_ML_IEEE_CIS_Fraud_Detection/)
-  - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> 
-  
-  
-## EDA 프로젝트 - Fastcampus
-  - https://git-thlee.github.io/PJT_EDA_fastcampus/  
-  - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"> 
-  
+# 그래프 그리기
+plt.plot(study_dates, study_scores, marker='o', linestyle='-', color='b')
+plt.xlabel('Study Dates')
+plt.ylabel('Study Scores')
+plt.title('AI Study Progress')
+plt.xticks(rotation=45)
+plt.grid(True)
 
-## 개인프로젝트 - 점자번역기(어플)
-  - https://github.com/git-ThLee/braille_translator
-  - <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-
-## 개인프로젝트 - Dog Run(Unity)
-  - https://github.com/git-ThLee/Dog_Run_Unity 
-  - <img src="https://img.shields.io/badge/Unity-002244?style=for-the-badge&logo=Unity&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=Aseprite&logoColor=white">
-
-## 개인프로젝트 - 악필검사기(어플)
-  - https://github.com/git-ThLee/bad_handwriting
-  - <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-
-
-<!--
- **뱃지 사이트**  
-https://simpleicons.org/?q=unity  
-
-**git-ThLee/git-ThLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 그래프 저장 및 출력
+plt.savefig('ai_study_progress.png')
+plt.show()
+```
