@@ -11,8 +11,13 @@
 
 ![image](https://github.com/git-ThLee/git-ThLee/assets/55564114/0c12e7a4-5ce3-4e9b-8a43-ea7826073549)  
 
-![image](https://github.com/git-ThLee/git-ThLee/assets/55564114/5daecd1f-2946-4b08-972b-b07af30c13b5)  
-
+```
+☎️ Contact
+💼 Experience
+🎓 Education
+📚 자격증
+💡 공모전 & 프로젝트
+```
 
 ---
 
