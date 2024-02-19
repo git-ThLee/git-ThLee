@@ -7,7 +7,7 @@
 ---
 ### 포트폴리오
 
-[포트폴리오(노션)](https://ancient-wire-8f9.notion.site/ThLee-1fef9e057dbf40d5b7b851ab0abccf36?pvs=4)
+[포트폴리오(노션)](https://thleewave.notion.site/thleewave/ThLee-1fef9e057dbf40d5b7b851ab0abccf36)
 
 ![image](https://github.com/git-ThLee/git-ThLee/assets/55564114/0c12e7a4-5ce3-4e9b-8a43-ea7826073549)  
 
