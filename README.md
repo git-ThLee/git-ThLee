@@ -1,4 +1,4 @@
-## 👋 Hello, I'm TaeHoon 👋
+![image](https://github.com/user-attachments/assets/16b5aa9b-69e8-44e9-bfdc-e4a8c90d0f81)## 👋 Hello, I'm TaeHoon 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a focus on solving complex problems and continuously expanding my knowledge. Here, you'll find my journey through various projects, experiences, and contributions to the tech community. 
 
@@ -14,7 +14,7 @@ You can view my detailed portfolio and learn more about my projects and experien
 
 [포트폴리오 (Notion)](https://thleewave.notion.site/thleewave/ThLee-1fef9e057dbf40d5b7b851ab0abccf36)
 
-![Portfolio Image](https://github.com/git-ThLee/git-ThLee/assets/55564114/0c12e7a4-5ce3-4e9b-8a43-ea7826073549)
+![image](https://github.com/user-attachments/assets/1da8ee27-6dc0-40c1-83ef-7779190fc4c6)
 
 ---
 
