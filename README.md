@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/16b5aa9b-69e8-44e9-bfdc-e4a8c90d0f81)## 👋 Hello, I'm TaeHoon 👋
+## 👋 Hello, I'm TaeHoon 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a focus on solving complex problems and continuously expanding my knowledge. Here, you'll find my journey through various projects, experiences, and contributions to the tech community. 
 
